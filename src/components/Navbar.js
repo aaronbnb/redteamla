@@ -42,9 +42,9 @@ const Navbar = class extends React.Component {
             </Link>
             {/* Hamburger menu */}
             <div className="navbar-burger burger" data-target="navMenu">
-              <span />
-              <span />
-              <span />
+              <span style={{color: `#880e0e`, width: `22px`}}/>
+              <span style={{color: `#880e0e`,  width: `22px`}}/>
+              <span style={{color: `#880e0e`,  width: `22px`}}/>
             </div>
           </div>
           <div id="navMenu" className="navbar-menu">

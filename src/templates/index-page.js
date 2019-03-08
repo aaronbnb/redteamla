@@ -34,7 +34,8 @@ export const IndexPageTemplate = ({
           backgroundColor: 'linear-gradient(transparent, white, transparent)',
           color: '#880e0e',
           lineHeight: '1',
-          padding: '0.25em'
+          padding: '0.5em',
+          fontWeight: '800'
         }}
       >
         {title}
@@ -44,7 +45,7 @@ export const IndexPageTemplate = ({
             backgroundColor: 'linear-gradient(transparent, white, transparent)',
             color: '#880e0e',
             lineHeight: '1',
-            padding: '0.25em'
+            padding: '0.75em'
           }}
       >
         {subheading}
