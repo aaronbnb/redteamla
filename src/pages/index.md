@@ -5,20 +5,18 @@ image: >-
   https://raw.githubusercontent.com/aaronbnb/redteamla/master/static/img/home-jumbotron.jpg
 heading: Penetration Testing for Small Business
 subheading: >-
-  Helping organizations break into their own applications - before someone else
+  We help organizations break into their own applications - before someone else
   does
 mainpitch:
   title: Why Red Team LA?
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  description: >-
+    Businesses today face a spectrum of online attacks originating from sources
+    around the world. Most successful attacks exploit flaws in the websites and
+    mobile applications that they target - flaws that could have been avoided by
+    organizations testing their own applications. Through penetration testing,
+    organizations learn their web vulnerabilities, and understand how to
+    consider security in their development.
+description: Imagine this
 intro:
   blurbs:
     - image: /img/coffee.png
