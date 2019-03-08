@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Penetration Testing for Small Businesses
 image: >-
-  https://raw.githubusercontent.com/aaronbnb/redteamla/master/static/img/blog-index.jpg
+  https://raw.githubusercontent.com/aaronbnb/redteamla/master/static/img/home-jumbotron.jpg
 heading: Penetration Testing for Small Business
 subheading: >-
   Helping organizations break into their own applications - before someone else
